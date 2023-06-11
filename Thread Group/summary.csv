@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Java Request,100,228,105,352,74.43,0.000%,8.23859,0.00,0.00,.0
+JSR223 Sampler,100,9,0,314,43.05,100.000%,8.44595,0.00,0.00,.0
+TOTAL,200,119,0,352,125.04,50.000%,16.47582,0.00,0.00,.0
