@@ -1,0 +1,6 @@
+John
+3
+pass123
+100.0
+Savings
+true

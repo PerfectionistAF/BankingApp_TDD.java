@@ -1,0 +1,6 @@
+Sohayla
+1
+123456
+123.45
+Student
+true
